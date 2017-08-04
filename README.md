@@ -1,4 +1,4 @@
-# Custom-Date-picker (Disabling the Custom Dates in Date Picker)
+# Custom-Date-picker (Disable the Custom Dates in Date Picker)
 
 Enabling the custome dates 
 
