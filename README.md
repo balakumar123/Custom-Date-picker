@@ -5,7 +5,7 @@ Enabling the custome dates
 Date Picker
 ->Adding custom Classes in datepicker 
 ->Adding And Removing Color To Specific Date
-
+->Adding lables to specific dates
 
 
 
