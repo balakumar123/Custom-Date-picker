@@ -1,2 +1,12 @@
 # Custom-Date-picker
-enabling and disabling custom date picker
+
+Enabling the custome dates 
+
+Date Picker
+->Adding custom Classes in datepicker 
+->Adding And Removing Color To Specific Date
+
+
+
+
+
